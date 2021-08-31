@@ -26,4 +26,6 @@ Necessário incluir uma nova variável para separação do Setor e Sub setor, po
 
 ### Apresentação
 ![alt text](https://raw.githubusercontent.com/junior8801/Web_Scraping_CVM_Py_Selenium/blob/main/Gr%C3%A1fico%20de%20Rosca%20-%20Setores%20e%20Subsetores.png)
+![Gráfico de Rosca - Setores e Subsetores](https://user-images.githubusercontent.com/843826/131518825-67af5875-4c3d-43a9-9aa7-448e9600e21e.png)
+
 
