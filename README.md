@@ -25,5 +25,5 @@ Fonte de Dados https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?langu
 Necessário incluir uma nova variável para separação do Setor e Sub setor, posteriormente o ajuste dos nomes dos Setores; "Cons N  Básico" e "Cons N Cíclico" para "Consumo Não-Cíclico", "Financ e Outros" para "Financeiro e Outros"
 
 ### Apresentação
+![alt text](https://raw.githubusercontent.com/junior8801/Web_Scraping_CVM_Py_Selenium/blob/main/Gr%C3%A1fico%20de%20Rosca%20-%20Setores%20e%20Subsetores.png)
 
-https://github.com/junior8801/Web_Scraping_CVM_Py_Selenium/blob/main/Gr%C3%A1fico%20de%20Rosca%20-%20Setores%20e%20Subsetores.png
