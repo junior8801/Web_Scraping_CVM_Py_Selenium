@@ -31,7 +31,7 @@ Este estudo foi atualizado em 31 de agosto de 2021 sendo considerado a quantidad
 Os setores que compõem o indice são; Bens Indls, Consumo Não-Cíclico, Consumo Cíclico, Diverso, Financeiro e Outros, Mats Básicos, Petróleo, Saúde, Tec.Informação, Telecomunicação e Utilidade Públ.
 Podemos observar que atualmente o setor de Financeiro possue maior relevância no índice seguido pelo setor de Materiais Básicos que juntos correspondem a aproximadamente 45%.
 
-Abaixo temos as representações gráficas dem gráfico de rosca e gráfico de árvore na sequência.
+Abaixo temos as representações gráficas de sua composição.
 ![Gráfico de Rosca - Setores e Subsetores](https://user-images.githubusercontent.com/843826/131518825-67af5875-4c3d-43a9-9aa7-448e9600e21e.png)
 ![Gráfico de Árvore Setores e Sub Setores](https://user-images.githubusercontent.com/843826/131519236-883d181a-573b-4338-bf99-9cd165f66963.png)
 
